@@ -46,15 +46,18 @@ h1 {
 }
 
 .imac {
-  width: 1000px;
+  width: 750px;
   left: 50%;
   transform: translate(-50%, 0);
+}
+
+.imac-result {
+  width: 750px;
 }
 
 .imgList {
   position: relative;
   left: 50%;
-
 
   animation-name: move;
   animation-duration: 4s;
